@@ -23,4 +23,4 @@ I write documentation that makes a difference for end users. If you have an open
 * 🧠 Currently working on an EEGLAB plug-in
 * 🎓 B.S. Cognitive Science + Minor Computer Science, Rensselaer Polytechnic Institute (RPI)
 
-Check out my [website](cmlino.github.io) or [resume](https://cmlino.github.io/pdf/resume.pdf) if you have time. 
+Check out my [website](https://cmlino.github.io/) or [resume](https://cmlino.github.io/pdf/resume.pdf) if you have time. 
