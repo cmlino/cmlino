@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm seeking a technical writing position at a software company.
+## I'm seeking a technical writing position at a hardware company.
 I write documentation that makes a difference for end users. If you have an opening for a technical writer, please reach out to me: cmlino@protonmail.com
 
 ### About Me
 * 👩‍💻 Fluent in HTML/CSS, Python & C++
-* 🧠 Currently working at PathAI
+* 🧠 Currently working at Kollmorgen
 * 🎓 B.S. Cognitive Science + Minor Computer Science, Rensselaer Polytechnic Institute (RPI)
 
 Check out my [website](https://cmlino.github.io/) or [resume](https://cmlino.github.io/pdf/resume.pdf) if you have time. 
