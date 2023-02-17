@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm seeking a technical writing position at a hardware company.
+## I'm seeking a technical writing position.
 I write documentation that makes a difference for end users. If you have an opening for a technical writer, please reach out to me: cmlino@protonmail.com
 
 ### About Me
