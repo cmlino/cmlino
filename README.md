@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my [website](https://cmlino.github.io/) or [resume](https://cmlino.github.io/pdf/resume.pdf) if you have time. 
+Check out my [portfolio](https://cmlino.github.io/) or [resume](https://cmlino.github.io/pdf/resume.pdf) if you have time. 
